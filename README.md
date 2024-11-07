@@ -30,7 +30,7 @@ Below are the primary questions and corresponding SQL queries used to analyze Ne
 14. Titles Featuring Popular Actors (e.g., Leonardo DiCaprio)
 15. Content with the Longest Descriptions.
 # Domain 📺
-This study aims at analysis of Netflix global OTT platform.
+This project aims at analysis of Netflix global OTT platform.
 # Project Structure 💻
 - Database Creation & Schema Definition: Creation of a structured database to import and query data.
 - SQL Queries: Multiple SQL queries designed to extract insights, answer business questions, and explore the Netflix catalog.
